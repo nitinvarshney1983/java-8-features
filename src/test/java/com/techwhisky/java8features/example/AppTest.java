@@ -1,4 +1,4 @@
-package com.techwhisky.java8features.exampe;
+package com.techwhisky.java8features.example;
 
 import static org.junit.Assert.assertTrue;
 
